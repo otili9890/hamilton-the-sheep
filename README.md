@@ -12,8 +12,6 @@ Project Repository
 
 ### [Team Research](https://github.com/otili9890/hamilton-the-sheep/tree/master/research) 
 
-### [Wiki](https://github.com/otili9890/hamilton-the-sheep/blob/master/wiki) 
-
 ### [Prototypes](https://github.com/otili9890/hamilton-the-sheep/tree/master/prototypes)
 
 #### [Low fidelity](https://github.com/otili9890/hamilton-the-sheep/tree/master/prototypes/low%20fidelity) 
