@@ -47,7 +47,7 @@ The proof of concept consists of three different activities located at three dif
 the three activities being set up in their respective locations and users navigating from one activity to another based on the information 
 gathered from each activity. Each activiy can be accessed individually through the following instructions below. 
 
-##### [Soccer Pong Activity]() 
+##### [Soccer Pong Activity](https://github.com/otili9890/hamilton-the-sheep/tree/master/prototypes/medium%20fidelity) 
 
 This prototype represents the soccer pong activity on a touch screen. In this activity two players play to score points by shooting the ball 
 into the other persons goal. Plays control the ball by flicking it to shoot it in a direction of their choosing or by touching the ball to stop it. 
