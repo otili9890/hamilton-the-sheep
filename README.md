@@ -5,18 +5,38 @@ Project Repository
 
 ### [Team Charter](https://github.com/otili9890/hamilton-the-sheep/blob/master/Team%20Charter.docx)
 
+The team charter created and used by Hamilton the Sheep. 
+
 ### [Concept Proposal](https://github.com/otili9890/hamilton-the-sheep/blob/master/Concept%20Proposal.docx) 
+
+The project proposal created by Hamilton the Sheep. 
 
 ## Design Process
 
 ### [Team Research](https://github.com/otili9890/hamilton-the-sheep/tree/master/research) 
 
+The research conducted by the team. 
+
+#### [Academic Paper Reviews](https://github.com/otili9890/hamilton-the-sheep/tree/master/research/academic%20papers)
+
+#### [User Interviews](https://github.com/otili9890/hamilton-the-sheep/tree/master/research/interviews)
+
+#### [Observations](https://github.com/otili9890/hamilton-the-sheep/tree/master/research/observations) 
+
+### [Design](https://github.com/otili9890/hamilton-the-sheep/tree/master/design) 
+
+Design work conducted by the team. 
+
+#### [Sketches](https://github.com/otili9890/hamilton-the-sheep/tree/master/design/sketches) 
+
+#### [Storyboards]()
+
 ### [Prototypes](https://github.com/otili9890/hamilton-the-sheep/tree/master/prototypes)
 
-The different prototypes created by the team
+The prototypes created by the team 
 
 #### [Low fidelity](https://github.com/otili9890/hamilton-the-sheep/tree/master/prototypes/low%20fidelity) 
-THe form of the low fidelity is a video demonstrating the soccer pong activity with the interaction of the two players being wizard of oz'ed.
+The form of the low fidelity is a video demonstrating the soccer pong activity with the interaction of the two players being wizard of oz'ed.
 #### [Medium fidelity](https://github.com/otili9890/hamilton-the-sheep/tree/master/prototypes/medium%20fidelity) 
 Form of medium fidelity is a interactive prototype created in Unity demonstrating the soccer pong activity. To use this 
 prototype, access the medium_prototype.readme file and download all the files in the given link then run the executable file on a touch enabled device. 
