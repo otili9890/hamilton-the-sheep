@@ -27,6 +27,8 @@ The research conducted by the team.
 
 Design work conducted by the team. 
 
+#### [Sprint Consultations](https://github.com/otili9890/hamilton-the-sheep/tree/master/design/spint%20consultations)
+
 #### [Sketches](https://github.com/otili9890/hamilton-the-sheep/tree/master/design/sketches) 
 
 
