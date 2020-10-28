@@ -29,7 +29,6 @@ Design work conducted by the team.
 
 #### [Sketches](https://github.com/otili9890/hamilton-the-sheep/tree/master/design/sketches) 
 
-#### [Storyboards]()
 
 ### [Prototypes](https://github.com/otili9890/hamilton-the-sheep/tree/master/prototypes)
 
