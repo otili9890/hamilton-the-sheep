@@ -51,13 +51,15 @@ gathered from each activity. Each activiy can be accessed individually through t
 ##### [Soccer Pong Activity](https://github.com/otili9890/hamilton-the-sheep/tree/master/prototypes/medium%20fidelity) 
 
 This prototype represents the soccer pong activity on a touch screen. In this activity two players play to score points by shooting the ball 
-into the other persons goal. Plays control the ball by flicking it to shoot it in a direction of their choosing or by touching the ball to stop it. 
+into the other persons goal. Players control the ball by flicking it to shoot it in a direction of their choosing or by touching the ball to stop it. 
 To use this prototype, download the files from the link in the readme file and run the executable. Requires a touchscreen device. 
 
-##### [Drawing Activity](https://github.com/otili9890/hamilton-the-sheep/blob/master/prototypes/proof_of_concept/drawing_activity) 
+##### [Drawing Activity](https://github.com/otili9890/hamilton-the-sheep/blob/master/prototypes/proof_of_concept/drawing_activity)
 
-This prototype represents the drawing activity. In this activity the user is given a drawing of a location and is asked to draw the location
-to the best of their ability. This can either be done by touch or by mice input. 
+This is the prototype for the design's drawing activity. This feature will have two users interacting with a projection of a location on campus. 
+This projection will be traced over by the users, as they compete to create a better drawing of their side of the image, and can be interacted 
+with using the mouse or the touch screen, however for the presentation users will engage by drawing on the whiteboard that it is projected upon,
+as this is more in line with the use of the concept. 
 To use this prototype, download the files from the link in the readme file and run the html file. 
 
 ##### [Tapping Activity]() 
