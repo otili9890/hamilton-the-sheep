@@ -62,6 +62,6 @@ with using the mouse or the touch screen, however for the presentation users wil
 as this is more in line with the use of the concept. 
 To use this prototype, download the files from the link in the readme file and run the html file. 
 
-##### [Tapping Activity]() 
+##### [Tapping Activity](https://drive.google.com/drive/folders/118OS0ElbMMnbeklur2z3swKaxa_15KwG?usp=sharing) 
 
 This prototype represents the tapping activity. In this activity the user has to click on the jacaranda blossom before it falls to the bottom of the screen. Each successful click earns a point, and the user can fail three times before the game is over. The jacaranda blossom falls a little faster each time so the game becomes progressively more difficult.
