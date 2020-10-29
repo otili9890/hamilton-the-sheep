@@ -23,6 +23,8 @@ The research conducted by the team.
 
 #### [Observations](https://github.com/otili9890/hamilton-the-sheep/tree/master/research/observations) 
 
+#### [Significant Evaluation](https://github.com/otili9890/hamilton-the-sheep/tree/master/prototypes/medium%20fidelity/significant%20evaluation) 
+
 ### [Design](https://github.com/otili9890/hamilton-the-sheep/tree/master/design) 
 
 Design work conducted by the team. 
